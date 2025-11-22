@@ -18,7 +18,7 @@ An educational, client‑ready simulator demonstrating the **logistic growth mod
 ## 🎯 Try It Yourself
 Click below to open the notebook in Google Colab and run the simulation interactively:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/logistic-growth-simulator/blob/main/Logistic_Growth_Simulator.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Imanisolace/logistic-growth-simulator/blob/main/Logistic_Growth_Simulator.ipynb)
 
 ---
 
@@ -50,7 +50,7 @@ Potential extensions include:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/logistic-growth-simulator.git
+git clone https://github.com/Imanisolace/logistic-growth-simulator.git
 cd logistic-growth-simulator
 pip install -r requirements.txt
 jupyter notebook
