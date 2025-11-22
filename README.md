@@ -1,4 +1,3 @@
-# -Interactive-logistic-growth-simulator
 # Interactive Logistic Growth Simulator — Population & Growth Rate Visualization
 
 An educational, client‑ready simulator demonstrating the **logistic growth model** with interactive sliders, dual plots (Population and ΔP), and inflection point annotations at P = K/2.
